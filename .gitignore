@@ -1,0 +1,21 @@
+# Private attendance records
+attendance.db
+attendance_*.csv
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
